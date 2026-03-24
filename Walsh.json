@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Walsh University",
+    "abbreviation": "Walsh",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000dV2K1IAK",
+    "programName": "Walsh Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "<b style='color:red;'>TBD<b/>",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "about",
+    "schoolname": "Walsh University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "Walsh",
+    "phone": null,
+    "credits": "<b style='color:red;'>TBD<b/>",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "<b style='color:red;'>TBD<b/>",
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Walsh University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>TBD<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Walsh University",
+    "trackTitle": "Coding for Web Track",
+    "credits": null,
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>TBD<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Walsh University",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>TBD<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Walsh University",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>TBD<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Walsh University",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "Walsh",
+    "registrationMessage": "Registration is now open.",
+    "courseCodes": "<b style='color:red;'>TBD<b/>",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 15"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Walsh Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "Walsh"
+  },
+  {
+    "item": "begin",
+    "credits": "<b style='color:red;'>TBD<b/>",
+    "abbreviation": "Walsh",
+    "phone": null
+  }
+]
